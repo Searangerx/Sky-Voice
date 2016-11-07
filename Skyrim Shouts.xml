@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <VoiceMacroProfile xmlns:ext="VoiceMacro exported profile data file">
   <GUID>9b704a58-27aa-4357-81d7-44b117d24d12</GUID>
   <ProfileName>Skyrim Shouts</ProfileName>
@@ -14,210 +14,210 @@
       </Group>
       <Group>
         <Name>Alessia&apos;s Love (Joor Drem of)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Annimal Allegiance (Raan Mir Tah)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Aura Whisper (Laaz Yah Nir)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Battle Fury (Mid Vur Shaan)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Become Ethereal (Feim Zii Gron)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Bend Will (Gol Hah Dov)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Call Dragon (Od Ah Viing)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Call of Valor (Hun Kaal Zor)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Champion&apos;s Spirit (Moro Krif Zind)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Clear Skies (Lok Vah Koor)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Cyclone (Ven Gaar Nos)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Disarm (Zun Haal Viik)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Dismay (Faas Ru Maar)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Dragon Aspect (Mul Qah Diiv)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Dragonrend (Joor Zah Frul)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Drain Vitality (Gaan Lah Haas)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Elemental Fury (Su Grah Dun)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Fire Breath (Yol Toor Shul)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Frost Breath (Fo Krah Diin)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Ice Form (Iiz  Slen Nus)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Kyne&apos;s Peace (Kaan Drem Ov)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Marked For Death (Krii Lun Aus)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Slow Time (Tiid Klo Ul)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Soul Tear (Rii Vaaz Zol)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Storm Call (Strun Bah Qo)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Summon Dragon (Dur Neh Viir)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Throw Voice (Zul Mey Gut)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Unrelenting Force (Fos Ro Dah)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Whirlwind Sprint (Wuld Nah Kest)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
       </Group>
       <Group>
         <Name>Annihilate (Rii Far Nos)</Name>
-        <Hidden>true</Hidden>
+        <Hidden>false</Hidden>
         <Prefixes></Prefixes>
         <Suffixes></Suffixes>
         <PrefixesSuffixes></PrefixesSuffixes>
@@ -4107,7 +4107,7 @@
         <MacroAction>
           <MacroType>1</MacroType>
           <Keyboard>
-            <Key>F10</Key>
+            <Key>F11</Key>
             <ClickDownUp>0</ClickDownUp>
             <lShift>false</lShift>
             <rShift>false</rShift>
@@ -4220,7 +4220,7 @@
         <MacroAction>
           <MacroType>1</MacroType>
           <Keyboard>
-            <Key>F10</Key>
+            <Key>F11</Key>
             <ClickDownUp>0</ClickDownUp>
             <lShift>false</lShift>
             <rShift>false</rShift>
